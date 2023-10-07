@@ -1,2 +1,3 @@
 # AppRegistroEmpleados
-![Aplicacion de registro](https://github.com/Roberto-itla/Aplicacion-de-Registro/assets/103516325/570cee2b-4d69-40ac-af7f-6e1d8ef791cc)
+
+![Aplicacion de registro](https://github.com/Roberto-itla/AppRegistroEmpleados/assets/103516325/a6b0a644-a4b3-4e8e-91ab-2c6ee19d77f7)
